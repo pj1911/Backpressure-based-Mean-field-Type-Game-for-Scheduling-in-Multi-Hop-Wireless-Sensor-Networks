@@ -9,7 +9,12 @@ We propose a Mean-Field Type Game (MFTG) framework for effective scheduling in m
 
 
 ## Citation
-Choutri, S. E., Djehiche, B., Chauhan, P., & Jabari, S. E. (2025). Backpressure-based Mean-field Type Game for Scheduling in Multi-Hop Wireless Sensor Networks. arXiv preprint arXiv:2506.03059.
+@article{choutri2025backpressure,
+  title={Backpressure-based Mean-field Type Game for Scheduling in Multi-Hop Wireless Sensor Networks},
+  author={Choutri, Salah Eddine and Djehiche, Boualem and Chauhan, Prajwal and Jabari, Saif Eddin},
+  journal={arXiv preprint arXiv:2506.03059},
+  year={2025}
+}
 
 ## License
 - **Code:** MIT License → see [`LICENSE.txt`](LICENSE.txt)  
